@@ -1,7 +1,7 @@
 {
   "functions": {
     "app/api/cron/weekly_summary/*.ts": {
-      "maxDuration": 30
+      "maxDuration": 10
     },
     "app/api/v1/client/**/*.ts": {
       "maxDuration": 10,
